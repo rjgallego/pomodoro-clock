@@ -1,4 +1,4 @@
-let remainingSeconds = 10;
+let remainingSeconds = 1500;
 let interval = null;
 
 //Set timer amount in seconds on toggle switch
